@@ -1,2 +1,2 @@
-# project_1
+my project 2 for creating branch by switching and merging
  
